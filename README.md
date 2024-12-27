@@ -51,7 +51,7 @@ Feel free to explore my repositories and connect with me! 😊
 
 <h4> 📬 Reach me out </h4>
 <p align="left">
-<a href="linkedin.com/in/pravin-gaikwad-1a5924282"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://linkedin.com/in/pravin-gaikwad-1a5924282"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/Pravin_Gaikwad_2359?igshid=MTg1cGhvNHYwcHV2cg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
   <a href="mailto:gaikwadpravin667@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 </p>
