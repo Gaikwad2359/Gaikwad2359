@@ -34,10 +34,6 @@ Feel free to explore my repositories and connect with me! 😊
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-</p>
-
 ### 🚀 Projects
 - Explore my projects on [GitHub](https://github.com/Gaikwad2359?tab=repositories).
 
@@ -55,7 +51,7 @@ Feel free to explore my repositories and connect with me! 😊
 
 <h4> 📬 Reach me out </h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/madhavlonkar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="linkedin.com/in/pravin-gaikwad-1a5924282"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/Pravin_Gaikwad_2359?igshid=MTg1cGhvNHYwcHV2cg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
   <a href="mailto:gaikwadpravin667@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 </p>
