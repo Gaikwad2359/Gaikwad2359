@@ -1,7 +1,7 @@
-![Banner Image](https://via.placeholder.com/1200x400.png?text=Welcome+to+Pravin+Gaikwad's+GitHub)
-
 # Hi there! ✨ I'm **Pravin Pradip Gaikwad**  
 A Passionate Full Stack Web Developer from India
+
+![Banner Image](https://via.placeholder.com/1200x400.png?text=Welcome+to+Pravin+Gaikwad's+GitHub)
 
 ## 🙋‍♂️ About Me
 
