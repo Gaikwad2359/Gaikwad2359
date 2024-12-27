@@ -16,7 +16,9 @@ Feel free to explore my repositories and connect with me! 😊
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pravin_Gaikwad_2359) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravin-gaikwad-1a5924282/?trk=opento_sprofile_details)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravin-gaikwad-1a5924282/?trk=opento_sprofile_details)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:gaikwadpravin667@gmail.com)
+
 
 ---
 
