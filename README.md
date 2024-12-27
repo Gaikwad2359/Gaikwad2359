@@ -1,4 +1,3 @@
-
 # Hi there! ✨ I'm **Pravin Gaikwad**  
 A Passionate Full Stack Web Developer from India
 
@@ -19,9 +18,6 @@ Feel free to explore my repositories and connect with me! 😊
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pravin_Gaikwad_2359) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:gaikwadpravin667@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravin-gaikwad-1a5924282/?trk=opento_sprofile_details)  
-
-
-
 
 ---
 
@@ -45,7 +41,6 @@ Feel free to explore my repositories and connect with me! 😊
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -55,6 +50,10 @@ Feel free to explore my repositories and connect with me! 😊
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Gaikwad2359&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧑‍💻 My Repositories
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **[Project 1](https://github.com/Gaikwad2359/project1)**: A description of your first project.
+- **[Project 2](https://github.com/Gaikwad2359/project2)**: A description of your second project.
+- **[Project 3](https://github.com/Gaikwad2359/project3)**: A description of your third project.
+
+Feel free to explore these repositories to see some of my work! 😊
