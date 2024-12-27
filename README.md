@@ -1,8 +1,6 @@
-<center>
+
 # Hi there! ✨ I'm **Pravin Pradip Gaikwad**  
 A Passionate Full Stack Web Developer from India
-</center>
-
 
 ![Banner Image](https://via.placeholder.com/1200x400.png?text=Welcome+to+Pravin+Gaikwad's+GitHub)
 
@@ -31,6 +29,7 @@ Feel free to explore my repositories and connect with me! 😊
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
