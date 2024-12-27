@@ -52,8 +52,6 @@ Feel free to explore my repositories and connect with me! 😊
 
 ## 🧑‍💻 My Repositories
 
-- **[Project 1](https://github.com/Gaikwad2359/project1)**: A description of your first project.
-- **[Project 2](https://github.com/Gaikwad2359/project2)**: A description of your second project.
-- **[Project 3](https://github.com/Gaikwad2359/project3)**: A description of your third project.
-
-Feel free to explore these repositories to see some of my work! 😊
+- **[Project 1](https://github.com/Gaikwad2359/Class-Managament-System)**
+- **[Project 2](https://github.com/Gaikwad2359/PMS)**
+- Feel free to explore these repositories to see some of my work! 😊
