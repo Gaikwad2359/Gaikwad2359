@@ -46,9 +46,9 @@ Feel free to explore my repositories and connect with me! 😊
 </p>
 
 <div align="center">
-### 🛠️ Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaikwad2359&hide=html,css&layout=compact)
+  <p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaikwad2359&layout=compact&hide=html,css&langs_count=10" alt="Gaikwad2359 Most Used Languages" /></p>
 </div>
+
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
