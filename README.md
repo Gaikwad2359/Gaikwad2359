@@ -14,8 +14,6 @@
 
 - 🔭 **Skilled Developer:** Proficient in Java, Spring Boot, servlets, C++, C, HTML, JSP, and MySQL.
 
-- 👨‍💻 **Passionate Ethical Hacker:** Actively engaged in ethical hacking and penetration testing, with a track record in hackathon participation.
-
 - 🌱 **Proven Problem Solver:** Contributed to three real-world software projects, showcasing strong problem-solving skills.
 
 - 💻 **Aspiring Software Developer:** Dedicated to continuous learning, aspiring to become a successful and innovative software developer.
